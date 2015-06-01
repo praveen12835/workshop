@@ -1,0 +1,186 @@
+.headername{
+font-family:"Gabriola";
+font-size: 3.5em;
+font-style: oblique;
+color: #777777;
+}
+.headerhome{
+font-family:"Gabriola";
+font-size: 1.5em;
+position: absolute;
+    left: 400px;
+    top: 150px;
+}
+.headerresume{
+font-family:"Gabriola";
+font-size: 1.5em;
+position: absolute;
+    left: 500px;
+    top: 150px;
+}
+.headeraboutme{
+font-family:"Gabriola";
+font-size: 1.5em;
+position: absolute;
+    left: 600px;
+    top: 150px;
+}
+.headercontact{
+font-family:"Gabriola";
+font-size: 1.5em;
+position: absolute;
+    left: 725px;
+    top: 150px;
+}
+.indexbgcolor{
+background-color:5C767D;
+width: 75%;
+float:left;
+}
+.hello{
+font-family:"Gabriola";
+font-size: 3.5em;
+color: #777777;
+position: absolute;
+    left: 400px;
+    top: 180px;
+}
+.abitaboutme{
+font-family:"Gabriola";
+font-size: 2.5em;
+color: #777777;
+position: absolute;
+    left: 400px;
+    top: 230px;
+}
+.rectangle {
+	width: 800px;
+	height: 200px;
+	background: #EED3DF;
+	float: left;
+	padding-top:200px;
+	}
+.rectangle1 {
+	width: 1100px;
+	height: 200px;
+	background: #EED3DF;
+	float: left;
+	padding-top:200px;
+	}
+	
+.circle1 {
+	position:absolute;
+    top: 330px;
+    left:350px;
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    background:#3098ff ;
+	}
+.txt1{
+   font-family:"Gabriola";
+	font-size: 1.5em;
+	color: #FFFFFF;
+	position: absolute;
+    left: 370px;
+    top: 372px;
+}	
+.circle2 {
+	position:absolute;
+    top: 330px;
+    left:500px;
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    background:#A6B300 ;
+	}
+.txt2{
+   font-family:"Gabriola";
+	font-size: 1.5em;
+	color: #FFFFFF;
+	position: absolute;
+    left: 525px;
+    top: 372px;
+}	
+.circle3 {
+	position:absolute;
+    top: 330px;
+    left:650px;
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    background:#FF807D ;
+	}
+.txt3{
+font-family:"Gabriola";
+font-size: 1.5em;
+color: #FFFFFF;
+position: absolute;
+left: 685px;
+top: 372px;
+}
+#pic{
+position:absolute;
+    top:220px;
+    left:55px;
+	width:250px;
+    height:300px;
+	}
+.contactinfo{
+font-family:"Gabriola";
+font-size: 1.5em;
+color: #777777;
+position: absolute;
+    left: 400px;
+    top: 260px;
+}
+.about1{
+font-family:"Gabriola";
+font-size: 2em;
+color: #777777;
+position: absolute;
+    left: 350px;
+    top: 200px;
+}
+.about2{
+font-family:"Gabriola";
+font-size: 1.5em;
+color: #777777;
+position: absolute;
+    left: 400px;
+    top: 250px;
+}
+.resume{
+font-family:"Gabriola";
+background: #EED3DF;
+font-size: 1.5em;
+}
+
+.headerhome1{
+font-family:"Gabriola";
+font-size: 1.5em;
+position: absolute;
+    left: 820px;
+    top: 5px;
+}
+.headerresume1{
+font-family:"Gabriola";
+font-size: 1.5em;
+position: absolute;
+    left: 900px;
+    top: 5px;
+}
+.headeraboutme1{
+font-family:"Gabriola";
+font-size: 1.5em;
+position: absolute;
+    left: 1000px;
+    top: 5px;
+}
+.headercontact1{
+font-family:"Gabriola";
+font-size: 1.5em;
+position: absolute;
+    left: 1125px;
+    top: 5px;
+}
